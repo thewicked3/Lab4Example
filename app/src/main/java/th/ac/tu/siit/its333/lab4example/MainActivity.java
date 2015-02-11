@@ -53,7 +53,7 @@ public class MainActivity extends ActionBarActivity
         lv.setAdapter(adapter);
         lv.setOnItemClickListener(this);
         lv.setOnItemLongClickListener(this);
-//dsd
+
         // Example on how to manipulate records
 
 //        SQLiteDatabase dbw = helper.getWritableDatabase();
